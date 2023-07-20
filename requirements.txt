@@ -1,4 +1,4 @@
-transformers
+transformers[torch]
 transformers[sentencepiece]
 datasets
 sacrebleu
@@ -10,6 +10,8 @@ tqdm
 PyYAML
 matplotlib
 torch
+torchvision
+torchaudio
 notebook
 boto3
 mypy-boto3-s3
